@@ -1,0 +1,22 @@
+{
+    "Details": [
+      {
+        "broker": "zerodha",
+        "uid": "zerodha_uid",
+        "password": "zerodha_password",
+        "pin": "zerodha_pin"
+      },
+      {
+        "broker": "upstox",
+        "uid": "upstox_uid",
+        "password": "upstox_password",
+        "pin": "upstox_pin"
+      },
+      {
+        "broker": "fyers",
+        "uid": "fyers_uid",
+        "password": "fyers_password",
+        "pin": "fyers_pin"
+      }
+    ]
+  }

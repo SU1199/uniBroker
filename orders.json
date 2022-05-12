@@ -1,0 +1,38 @@
+{
+    "Payload": [
+      {
+        "Timestamp": "",
+        "Broker": "",
+        "Variety": "",
+        "Exchange": "",
+        "Tradingsymbol": "",
+        "Transaction_type": "",
+        "Order_type": "",
+        "Quantity": "",
+        "Price": "",
+        "Product": "",
+        "Disclosed_quantity": "",
+        "Trigger_price": "",
+        "Squareoff": "",
+        "Stoploss": "",
+        "Trailing_stoploss": ""
+      },
+      {
+        "Timestamp": "",
+        "Broker": "",
+        "Variety": "",
+        "Exchange": "",
+        "Tradingsymbol": "",
+        "Transaction_type": "",
+        "Order_type": "",
+        "Quantity": "",
+        "Price": "",
+        "Product": "",
+        "Disclosed_quantity": "",
+        "Trigger_price": "",
+        "Squareoff": "",
+        "Stoploss": "",
+        "Trailing_stoploss": ""
+      }
+    ]
+  }
